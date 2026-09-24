@@ -29,6 +29,7 @@
 #### jnMetaCode - [Github](https://github.com/jnMetaCode)
 * :white_check_mark: [ShellWard](https://jnmetacode.github.io/shellward/)：一行命令体检 AI 项目的合规红线（数据出境、硬编码密钥、个人信息暴露），映射到网安法/PIPL/等保2.0 并给出评分，零依赖开源
 * :white_check_mark: [OpenShorts 开片](https://os.aiolaola.com/)：给一个话题就写脚本、找画面、配音、烧字幕、出成片和发布文案，默认零成本跑通第一条
+* :white_check_mark: [tracelet](https://github.com/jnMetaCode/tracelet)：把 OpenTelemetry 指向 localhost，实时看 agent 的每次 LLM 调用与工具调用；改完提示词或换模型后，Compare 逐步对齐两次运行，指出差异
 
 ### 2026 年 9 月 23 号添加
 
